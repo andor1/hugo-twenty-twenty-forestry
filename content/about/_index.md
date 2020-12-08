@@ -1,9 +1,18 @@
 ---
-title: "About"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: About Me
+description: What is a Doran, exactly?
 
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+---
+# Hi! I’m Doran!
+
+Well, you’ve found my website. So, you may actually want to know more about me.
+
+_Maybe._
+
+I’m a creative kind of guy. I like to play guitar. I like to draw an paint. I like to build things out of wood. And I write this blog and the comics that go on it. Between this, my three kids, two dogs, a wonderful wife who’s kicking ass in Grad School, I keep busy.
+
+**- BUT -**
+
+If you’ve got a little project, or a big project with a deadline way off in the future, you can collaborate or even hire me. Drop me a line!
+
+[andor@mac.com](mailto:andor@mac.com)
