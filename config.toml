@@ -10,10 +10,6 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "What's A Doran Dot Com"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.desktop]]
-URL = "contact"
-name = "Contact"
-weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"

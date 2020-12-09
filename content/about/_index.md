@@ -1,9 +1,6 @@
 ---
 title: About Me
 description: What is a Doran, exactly?
-menu:
-  desktop:
-    weight: 2
 
 ---
 # Hi! I’m Doran!
