@@ -11,6 +11,7 @@ fields:
 - type: file
   name: image
   label: image
+  default: "/images/2020-12-09-img_0133.png"
 - type: list
   name: author
   label: author
