@@ -3,7 +3,6 @@ author = []
 categories = []
 date = 2020-12-08T06:00:00Z
 description = ""
-draft = true
 image = "/images/2020-12-09-img_0133.png"
 tags = ["thoughts"]
 title = "Testing the new dang site"
