@@ -26,5 +26,6 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/messin-with-the-kid.md
 - content/blog/testing-the-new-dang-site.md
 - content/blog/this-bunny-comic-11-16-2020.md
