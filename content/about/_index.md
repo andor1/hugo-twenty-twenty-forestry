@@ -35,6 +35,12 @@ Technically, the beard has always had me.
 
 You sound like my optometrist. Listen, I’m not THAT far sighted, ok? Geez.
 
+**Well all of this sounds great. How can we contact you?**
+
+You’ve obviously never been on your roof, or you’d know about the Doran Signal up there. 
+
+...those were really expensive too....
+
 If you’ve got a little project, or a big project with a deadline way off in the future, you can collaborate or even hire me. Drop me a line!
 
 [andor@mac.com](mailto:andor@mac.com)
